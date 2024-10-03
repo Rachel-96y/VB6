@@ -1,0 +1,13 @@
+(CIF written by the Tanner Research layout editor, L-Edit);
+(Version: 16.30);
+(TECHNOLOGY: TS9CA_SiN);
+(DATE: 29 Apr 2024);
+(FABCELL: NONE);
+(L-Edit Layer WGO_RS = CIF Layer 22);
+(SCALING: 1 CIF Unit = 1/2000 Microns);
+DS 1 2 40;
+9 juxing;
+L 22;
+P 54526,81894 61352,68242 124432,36232 38050,7280 9,9;
+DF;
+E
